@@ -1,0 +1,5 @@
+.idea/
+*.jpg
+*.png
+output1.gif
+output1.frames.json output2.frames.json
